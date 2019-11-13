@@ -1,5 +1,5 @@
 def addition(num1, num2)
-puts "#{num1} + #{num2}"
+puts "#{num1}.int + #{num2}.int"
 
 end
 
