@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  puts addition
+  return num1 + num2
 end
 
 
